@@ -1,2 +1,2 @@
 # spm
-wrapper de aplicacion web en java para administrar contraseñas
+wrapper de una aplicación web con openjdk que permite administrar contraseñas
